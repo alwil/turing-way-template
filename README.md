@@ -6,7 +6,7 @@
 *This is a template for setting up a research or data science project online, such as on GitHub.*
 
 ## About this Repository
-
+ 
 This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
